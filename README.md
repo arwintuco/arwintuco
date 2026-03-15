@@ -16,8 +16,10 @@ Interesse especial em **projetos web** e **desenvolvimento front-end**
 ## Estatísticas do GitHub 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)  
 
-## Como me encontrar   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:alivery95@gmail.com)
+## Como me encontrar 
+<div> 
+  <a href = "mailto:alivery95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 *“Sempre aprendendo e evoluindo como desenvolvedor.”*
